@@ -15,7 +15,7 @@ body{
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: url(bg.jpg) no-repeat;
+  background: url(spotter.png) no-repeat;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -30,7 +30,7 @@ body{
   text-transform: uppercase;
   letter-spacing: 2px;
   line-height: 80px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(63, 5, 110, 0.5);
 }
 
 header{
@@ -47,7 +47,7 @@ header{
 }
 
 header.sticky{
-  background-color: #c50e1a;
+  background-color: #820ec5;
   padding: 15px 100px;
 }
 
